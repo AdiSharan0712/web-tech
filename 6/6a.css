@@ -1,0 +1,44 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+
+.desc, 
+.header { 
+ text-align: center; 
+ align-items: center; 
+ padding: 20px; 
+ 
+} 
+
+.header { 
+ background-color: white; 
+ color: black; 
+} 
+
+th { 
+ background-color: rgb(113, 10, 10); 
+ color: white; 
+ border: solid 1px rgb(255, 255, 255); 
+ text-align: center; 
+} 
+
+td { 
+ text-align: center; 
+ border: solid 1px rgb(0, 0, 0); 
+} 
+
+.footer { 
+ background-color: rgb(135, 40, 40); 
+ color: white; 
+ text-align: center; 
+} 
+#img1{
+float: left; 
+width: 200px;  
+}
+#img2{
+float: right; 
+width: 200px;  
+}
